@@ -1,1 +1,0 @@
-# SuiteCRM-7.14.4-SQLi
